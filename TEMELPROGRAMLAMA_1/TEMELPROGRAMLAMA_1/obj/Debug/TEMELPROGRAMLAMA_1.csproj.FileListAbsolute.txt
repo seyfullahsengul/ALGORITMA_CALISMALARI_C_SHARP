@@ -1,0 +1,2 @@
+C:\Users\SENGUL\source\repos\TEMELPROGRAMLAMA_1\TEMELPROGRAMLAMA_1\obj\Debug\TEMELPROGRAMLAMA_1.csprojAssemblyReference.cache
+C:\Users\SENGUL\source\repos\TEMELPROGRAMLAMA_1\TEMELPROGRAMLAMA_1\obj\Debug\TEMELPROGRAMLAMA_1.csproj.CoreCompileInputs.cache
