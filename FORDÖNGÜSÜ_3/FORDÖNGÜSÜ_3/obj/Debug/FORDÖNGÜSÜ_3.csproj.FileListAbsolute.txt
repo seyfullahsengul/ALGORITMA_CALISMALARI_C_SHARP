@@ -1,0 +1,7 @@
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\FORDÖNGÜSÜ_3\FORDÖNGÜSÜ_3\bin\Debug\FORDÖNGÜSÜ_3.exe.config
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\FORDÖNGÜSÜ_3\FORDÖNGÜSÜ_3\bin\Debug\FORDÖNGÜSÜ_3.exe
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\FORDÖNGÜSÜ_3\FORDÖNGÜSÜ_3\bin\Debug\FORDÖNGÜSÜ_3.pdb
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\FORDÖNGÜSÜ_3\FORDÖNGÜSÜ_3\obj\Debug\FORDÖNGÜSÜ_3.csprojAssemblyReference.cache
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\FORDÖNGÜSÜ_3\FORDÖNGÜSÜ_3\obj\Debug\FORDÖNGÜSÜ_3.csproj.CoreCompileInputs.cache
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\FORDÖNGÜSÜ_3\FORDÖNGÜSÜ_3\obj\Debug\FORDÖNGÜSÜ_3.exe
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\FORDÖNGÜSÜ_3\FORDÖNGÜSÜ_3\obj\Debug\FORDÖNGÜSÜ_3.pdb
