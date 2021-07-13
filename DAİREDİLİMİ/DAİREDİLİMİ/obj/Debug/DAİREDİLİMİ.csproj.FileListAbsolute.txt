@@ -1,0 +1,7 @@
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\DAİREDİLİMİ\DAİREDİLİMİ\bin\Debug\DAİREDİLİMİ.exe.config
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\DAİREDİLİMİ\DAİREDİLİMİ\bin\Debug\DAİREDİLİMİ.exe
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\DAİREDİLİMİ\DAİREDİLİMİ\bin\Debug\DAİREDİLİMİ.pdb
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\DAİREDİLİMİ\DAİREDİLİMİ\obj\Debug\DAİREDİLİMİ.csprojAssemblyReference.cache
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\DAİREDİLİMİ\DAİREDİLİMİ\obj\Debug\DAİREDİLİMİ.csproj.CoreCompileInputs.cache
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\DAİREDİLİMİ\DAİREDİLİMİ\obj\Debug\DAİREDİLİMİ.exe
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\DAİREDİLİMİ\DAİREDİLİMİ\obj\Debug\DAİREDİLİMİ.pdb
