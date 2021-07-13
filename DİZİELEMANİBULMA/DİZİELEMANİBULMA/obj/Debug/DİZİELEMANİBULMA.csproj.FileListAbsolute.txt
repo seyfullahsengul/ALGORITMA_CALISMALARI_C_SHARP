@@ -1,0 +1,7 @@
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\DİZİELEMANİBULMA\DİZİELEMANİBULMA\bin\Debug\DİZİELEMANİBULMA.exe.config
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\DİZİELEMANİBULMA\DİZİELEMANİBULMA\bin\Debug\DİZİELEMANİBULMA.exe
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\DİZİELEMANİBULMA\DİZİELEMANİBULMA\bin\Debug\DİZİELEMANİBULMA.pdb
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\DİZİELEMANİBULMA\DİZİELEMANİBULMA\obj\Debug\DİZİELEMANİBULMA.csprojAssemblyReference.cache
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\DİZİELEMANİBULMA\DİZİELEMANİBULMA\obj\Debug\DİZİELEMANİBULMA.csproj.CoreCompileInputs.cache
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\DİZİELEMANİBULMA\DİZİELEMANİBULMA\obj\Debug\DİZİELEMANİBULMA.exe
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\DİZİELEMANİBULMA\DİZİELEMANİBULMA\obj\Debug\DİZİELEMANİBULMA.pdb

@@ -1,0 +1,7 @@
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\DİZİCLASLARİ\DİZİCLASLARİ\bin\Debug\DİZİCLASLARİ.exe.config
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\DİZİCLASLARİ\DİZİCLASLARİ\bin\Debug\DİZİCLASLARİ.exe
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\DİZİCLASLARİ\DİZİCLASLARİ\bin\Debug\DİZİCLASLARİ.pdb
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\DİZİCLASLARİ\DİZİCLASLARİ\obj\Debug\DİZİCLASLARİ.csprojAssemblyReference.cache
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\DİZİCLASLARİ\DİZİCLASLARİ\obj\Debug\DİZİCLASLARİ.csproj.CoreCompileInputs.cache
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\DİZİCLASLARİ\DİZİCLASLARİ\obj\Debug\DİZİCLASLARİ.exe
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\DİZİCLASLARİ\DİZİCLASLARİ\obj\Debug\DİZİCLASLARİ.pdb

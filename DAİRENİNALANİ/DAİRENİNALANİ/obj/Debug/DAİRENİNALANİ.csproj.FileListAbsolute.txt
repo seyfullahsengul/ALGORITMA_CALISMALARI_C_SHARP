@@ -1,0 +1,7 @@
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\DAİRENİNALANİ\DAİRENİNALANİ\bin\Debug\DAİRENİNALANİ.exe.config
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\DAİRENİNALANİ\DAİRENİNALANİ\bin\Debug\DAİRENİNALANİ.exe
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\DAİRENİNALANİ\DAİRENİNALANİ\bin\Debug\DAİRENİNALANİ.pdb
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\DAİRENİNALANİ\DAİRENİNALANİ\obj\Debug\DAİRENİNALANİ.csprojAssemblyReference.cache
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\DAİRENİNALANİ\DAİRENİNALANİ\obj\Debug\DAİRENİNALANİ.csproj.CoreCompileInputs.cache
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\DAİRENİNALANİ\DAİRENİNALANİ\obj\Debug\DAİRENİNALANİ.exe
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\DAİRENİNALANİ\DAİRENİNALANİ\obj\Debug\DAİRENİNALANİ.pdb
