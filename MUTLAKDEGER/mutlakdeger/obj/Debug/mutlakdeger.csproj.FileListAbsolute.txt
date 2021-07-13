@@ -1,0 +1,7 @@
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\mutlakdeger\mutlakdeger\obj\Debug\mutlakdeger.csprojAssemblyReference.cache
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\mutlakdeger\mutlakdeger\obj\Debug\mutlakdeger.csproj.CoreCompileInputs.cache
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\mutlakdeger\mutlakdeger\bin\Debug\mutlakdeger.exe.config
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\mutlakdeger\mutlakdeger\bin\Debug\mutlakdeger.exe
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\mutlakdeger\mutlakdeger\bin\Debug\mutlakdeger.pdb
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\mutlakdeger\mutlakdeger\obj\Debug\mutlakdeger.exe
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\mutlakdeger\mutlakdeger\obj\Debug\mutlakdeger.pdb
