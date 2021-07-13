@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SWİTC_CASE_1", "SWİTC_CASE_1\SWİTC_CASE_1.csproj", "{BBEAFB1E-2544-4EDA-8C40-2E7E6C61E816}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBEAFB1E-2544-4EDA-8C40-2E7E6C61E816}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBEAFB1E-2544-4EDA-8C40-2E7E6C61E816}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBEAFB1E-2544-4EDA-8C40-2E7E6C61E816}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBEAFB1E-2544-4EDA-8C40-2E7E6C61E816}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A8412CA-3C54-4873-88BA-07E6E67A2440}
+	EndGlobalSection
+EndGlobal

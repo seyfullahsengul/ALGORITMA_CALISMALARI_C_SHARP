@@ -1,0 +1,7 @@
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\SWİTCH_CASE\SWİTCH_CASE\bin\Debug\SWİTCH_CASE.exe.config
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\SWİTCH_CASE\SWİTCH_CASE\bin\Debug\SWİTCH_CASE.exe
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\SWİTCH_CASE\SWİTCH_CASE\bin\Debug\SWİTCH_CASE.pdb
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\SWİTCH_CASE\SWİTCH_CASE\obj\Debug\SWİTCH_CASE.csprojAssemblyReference.cache
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\SWİTCH_CASE\SWİTCH_CASE\obj\Debug\SWİTCH_CASE.csproj.CoreCompileInputs.cache
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\SWİTCH_CASE\SWİTCH_CASE\obj\Debug\SWİTCH_CASE.exe
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\SWİTCH_CASE\SWİTCH_CASE\obj\Debug\SWİTCH_CASE.pdb

@@ -1,0 +1,7 @@
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\Tek_Çift_Dizi_Terimleri\Tek_Çift_Dizi_Terimleri\bin\Debug\Tek_Çift_Dizi_Terimleri.exe.config
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\Tek_Çift_Dizi_Terimleri\Tek_Çift_Dizi_Terimleri\bin\Debug\Tek_Çift_Dizi_Terimleri.exe
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\Tek_Çift_Dizi_Terimleri\Tek_Çift_Dizi_Terimleri\bin\Debug\Tek_Çift_Dizi_Terimleri.pdb
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\Tek_Çift_Dizi_Terimleri\Tek_Çift_Dizi_Terimleri\obj\Debug\Tek_Çift_Dizi_Terimleri.csprojAssemblyReference.cache
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\Tek_Çift_Dizi_Terimleri\Tek_Çift_Dizi_Terimleri\obj\Debug\Tek_Çift_Dizi_Terimleri.csproj.CoreCompileInputs.cache
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\Tek_Çift_Dizi_Terimleri\Tek_Çift_Dizi_Terimleri\obj\Debug\Tek_Çift_Dizi_Terimleri.exe
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\Tek_Çift_Dizi_Terimleri\Tek_Çift_Dizi_Terimleri\obj\Debug\Tek_Çift_Dizi_Terimleri.pdb

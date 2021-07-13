@@ -1,0 +1,7 @@
+C:\Users\SENGUL\source\repos\SWİTC_CASE_1\SWİTC_CASE_1\bin\Debug\SWİTC_CASE_1.exe.config
+C:\Users\SENGUL\source\repos\SWİTC_CASE_1\SWİTC_CASE_1\bin\Debug\SWİTC_CASE_1.exe
+C:\Users\SENGUL\source\repos\SWİTC_CASE_1\SWİTC_CASE_1\bin\Debug\SWİTC_CASE_1.pdb
+C:\Users\SENGUL\source\repos\SWİTC_CASE_1\SWİTC_CASE_1\obj\Debug\SWİTC_CASE_1.csprojAssemblyReference.cache
+C:\Users\SENGUL\source\repos\SWİTC_CASE_1\SWİTC_CASE_1\obj\Debug\SWİTC_CASE_1.csproj.CoreCompileInputs.cache
+C:\Users\SENGUL\source\repos\SWİTC_CASE_1\SWİTC_CASE_1\obj\Debug\SWİTC_CASE_1.exe
+C:\Users\SENGUL\source\repos\SWİTC_CASE_1\SWİTC_CASE_1\obj\Debug\SWİTC_CASE_1.pdb
