@@ -1,0 +1,7 @@
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\READONLY SABİTİ\READONLY SABİTİ\bin\Debug\READONLY SABİTİ.exe.config
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\READONLY SABİTİ\READONLY SABİTİ\bin\Debug\READONLY SABİTİ.exe
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\READONLY SABİTİ\READONLY SABİTİ\bin\Debug\READONLY SABİTİ.pdb
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\READONLY SABİTİ\READONLY SABİTİ\obj\Debug\READONLY SABİTİ.csprojAssemblyReference.cache
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\READONLY SABİTİ\READONLY SABİTİ\obj\Debug\READONLY SABİTİ.csproj.CoreCompileInputs.cache
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\READONLY SABİTİ\READONLY SABİTİ\obj\Debug\READONLY SABİTİ.exe
+C:\Users\SENGUL\Desktop\Kodlama Uygulamaları\1-) ALGORİTMA TASARIMI (ZAFER CÖMERT)\READONLY SABİTİ\READONLY SABİTİ\obj\Debug\READONLY SABİTİ.pdb

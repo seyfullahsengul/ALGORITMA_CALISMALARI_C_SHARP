@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "READONLY SABİTİ", "READONLY SABİTİ\READONLY SABİTİ.csproj", "{5EEE6E7C-C7AE-4823-B6B6-518A532911B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EEE6E7C-C7AE-4823-B6B6-518A532911B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EEE6E7C-C7AE-4823-B6B6-518A532911B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EEE6E7C-C7AE-4823-B6B6-518A532911B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EEE6E7C-C7AE-4823-B6B6-518A532911B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {265C59AA-A460-4211-940E-A3866075D978}
+	EndGlobalSection
+EndGlobal
